@@ -1,6 +1,9 @@
 # PS Repository
 This repository is for saving solution of PS
 
+# Explain Solution Blog
+- [velog](https://velog.io/@jsleeg98/series/PS)
+
 # Problem Source
 - [backjoon](https://www.acmicpc.net/)
 
