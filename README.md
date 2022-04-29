@@ -7,7 +7,7 @@ This repository is for saving solution of PS
 # Problem Source
 - [backjoon](https://www.acmicpc.net/)
 - [SWEA](https://swexpertacademy.com/main/main.do)
-- 
+
 # Commit Rule
 ## backjoon
 ```
