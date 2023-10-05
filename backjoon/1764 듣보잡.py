@@ -6,11 +6,11 @@ no_hear = {}
 no_see = {}
 
 for _ in range(N):
-    name = sys.stdin.readline()
+    name = sys.stdin.readline()[:-1]
     no_hear[name] = True
 
 for _ in range(M):
-    name = sys.stdin.readline()
+    name = sys.stdin.readline()[:-1]
     no_see[name] = True
 
 result = []
